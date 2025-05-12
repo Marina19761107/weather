@@ -13,12 +13,13 @@ Cho0se the city you're interested in to see detailed weather information.
 
 ```bash
 npm install -g @11ty/eleventy
+"build": npx @eleventy/eleventy
 ```
 
 ### Run Eleventy
 
 ```bash
-eleventy --serve
+"start": eleventy --serve
 ```
 
 Now navigate to [http://localhost:8080](http://localhost:8080) to see your site.
