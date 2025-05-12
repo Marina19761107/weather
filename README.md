@@ -1,11 +1,11 @@
 # Weather App
 
-A responsive web client for viewing weather forecasts for Berlin, Amstardam, Paris,Tromso, Cork and Copenhagen. 
+A responsive web client for viewing weather forecasts for Berlin, Amsterdam, Paris,Tromso, Cork and Copenhagen. 
 
-## Discribtion
-View current hight and low temperatures for Berlin, Amstardam, Paris,Tromso, Cork and Copenhagen. 
+## Discription
+View current hight and low temperatures for Berlin, Amsterdam, Paris,Tromso, Cork and Copenhagen. 
 Get a 7-day weather forecast for each city.
-Cho0se the city you're interested in to see detailed weather information.
+Choose the city you're interested in to see detailed weather information.
 
 ## Getting Started
 
@@ -13,21 +13,36 @@ Cho0se the city you're interested in to see detailed weather information.
 
 ```bash
 npm install -g @11ty/eleventy
-"build": npx @eleventy/eleventy
+```
+### Build the project
+
+```bash
+npx @11ty/eleventy
 ```
 
 ### Run Eleventy
 
 ```bash
-"start": eleventy --serve
+npx 11ty/eleventy --serve
 ```
 
-Now navigate to [http://localhost:8080](http://localhost:8080) to see your site.
+Now navigate to [http://localhost:8080](http://localhost:8080) to see the site.
 
+## Live demo link
 
+### Netlify
+
+weather-app-ms-as-2.netlify.app
+
+### GitHyb repository
+
+* [GitHub](https://github.com/Marina19761107/weather/tree/main)
 
 ## Technologies
 
+* HTML
+* JAvaScript
+* Day.js (for data formattin)
 * [Eleventy](https://www.11ty.dev/)
 * [Bulma](https://bulma.io/)
 

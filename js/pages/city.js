@@ -12,7 +12,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     //elements that need to be updated
     const time = document.getElementById("time");
-    const rightNowTemp = document.getElementById("rightNowTemp");
     const tempMax = document.getElementById("tempMax");
     const currentWindSpeed = document.getElementById("currentWindSpeed");
     const maxWindSpeed = document.getElementById("maxWindSpeed");
