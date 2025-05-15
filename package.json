@@ -1,4 +1,4 @@
-{
+ {
   "name": "assessment_2",
   "version": "1.0.0",
   "description": "A web client for our music streaming service.",
@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marina19761107/weather_app.git"
+    "url": "git+https://github.com/Marina19761107/weather.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/Marina19761107/weather_app/issues"
+    "url": "https://github.com/Marina19761107/weather/issues"
   },
-  "homepage": "https://github.com/Marina19761107/weather_app#readme",
+  "homepage": "https://github.com/Marina19761107/weather#readme",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0",
     "@11ty/eleventy-navigation": "^1.0.4"
