@@ -1,5 +1,5 @@
  {
-  "name": "assessment_2",
+  "name": "assessment_1",
   "version": "1.0.0",
   "description": "A web client for our music streaming service.",
   "main": ".eleventy.js",
